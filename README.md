@@ -17,4 +17,3 @@ I try to code a single perceptron that classifies points in a cartesian graph ac
 
 ### Actual classification
 ![Alt text](graphs/03.PNG?raw=true "Title")
-<small> Legend (green = correct guess; black = wrong) </small>
